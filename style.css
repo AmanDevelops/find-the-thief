@@ -1,0 +1,13 @@
+#thief-image {
+  height: 100px;
+  width: 100px;
+}
+
+#menu {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
