@@ -4,7 +4,8 @@
   position: absolute;
 }
 
-h1 {
+h1,
+h4 {
   font-family: "Press Start 2P", system-ui;
   font-weight: 400;
   font-style: normal;
